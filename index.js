@@ -11,4 +11,6 @@
       return string.toLowerCase()
     }
 
-
+function sayHelloTo(firstName) {
+  console.log(`Hello, ${firstName}!`)
+}
