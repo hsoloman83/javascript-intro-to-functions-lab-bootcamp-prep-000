@@ -6,9 +6,9 @@
       return string.toLowerCase()
     }
     
-    //         function logShout(string) {
+            function logShout(string) {
               
-    //   return string.toLowerCase()
-    // }
+      return string.toLowerCase()
+    }
 
 
